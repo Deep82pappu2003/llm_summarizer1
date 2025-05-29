@@ -1,2 +1,2 @@
-# llm_summerizer1
-LLM_Summerizer Tool
+# Text Summarizer tool using Abstractive and Extractive Summarizer
+

@@ -1,2 +1,2 @@
-# Text Summarizer tool using Abstractive and Extractive Summarizer
+# Text Summarizer tool using Abstractive and Extractive Summarization.
 
